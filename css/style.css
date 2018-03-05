@@ -1,0 +1,11 @@
+body {
+	background-color: maroon;
+}
+
+#logo {
+	margin: auto;
+}
+
+#messagecontainer {
+	list-style: none;
+}
